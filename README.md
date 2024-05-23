@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @stephenkhalaf
-- 👀 I’m interested in full stack javascript
-- 🌱 I’m currently learning Javascript
+- 👀 I’m interested in data science
 - 💞️ I’m looking to collaborate on open source project
 - 📫 How to reach me stephenkhalaf@gmail.com
 
